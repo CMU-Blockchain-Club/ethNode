@@ -1,4 +1,4 @@
-# Build our own computer
+# Ethereum Node Specs
 
 SSD: 6TB [Intel SSD D7-P5510](https://www.amazon.com/Intel-SSD-D7-P5510-Series-7-68TB/dp/B08R3YQN2V?tag=discord0a4-20) $1,150.86
 
@@ -10,11 +10,11 @@ Client: Geth
 
 Bandwidth: 25+ MBit/s (Cylab probably)
 
-Total Cost: $1720.84
+### Total Cost: $1720.84
 
 Still researching on the software to run on our own computer. GETH is the most used option, but we may want to choose another client for network diversity.
 
 We can deploy the node using [DAppNode](https://docs.dappnode.io/get-started/intro).
 
-## ToDo:
+## ToDo
 Decide on a computer case, cooling fans, and motherboard.
