@@ -2,7 +2,7 @@
 
 SSD: 6TB [Intel SSD D7-P5510](https://www.amazon.com/Intel-SSD-D7-P5510-Series-7-68TB/dp/B08R3YQN2V?tag=discord0a4-20) $1,150
 
-CPU: at least greater than i7 [Intel Core i9]([https://www.bestbuy.com/site/intel-core-i9-10900k-10th-generation-10-core-20-thread-3-7-ghz-5-3-ghz-turbo-socket-lga1200-unlocked-desktop-processor/6411492.p?skuId=6411492](https://www.amazon.com/Intel-i9-12900KF-Desktop-Processor-Unlocked/dp/B09FWYK5M9/ref=sr_1_3?crid=1UJDYMERKL1YE&keywords=intel+i9&qid=1667496462&qu=eyJxc2MiOiI0LjM4IiwicXNhIjoiMy42MCIsInFzcCI6IjMuNDkifQ%3D%3D&s=electronics&sprefix=intel+i9%2Celectronics%2C77&sr=1-3&ufe=app_do%3Aamzn1.fos.75663753-bdc2-4684-b908-24b2eaf37afa)) $497
+CPU: at least greater than i7 [Intel Core i9](https://www.amazon.com/Intel-i9-12900KF-Desktop-Processor-Unlocked/dp/B09FWYK5M9/ref=sr_1_3?crid=1J2FTXPVSW61S&keywords=i9&qid=1667496853&qu=eyJxc2MiOiI0Ljc3IiwicXNhIjoiMy43NSIsInFzcCI6IjMuNDUifQ%3D%3D&s=electronics&sprefix=i9%2Celectronics%2C81&sr=1-3&ufe=app_do%3Aamzn1.fos.75663753-bdc2-4684-b908-24b2eaf37afa) $497
 
 [Motherboard](https://www.amazon.com/ASUS-ROG-XII-Motherboard-Bluetooth/dp/B086QT2Y86/?tag=w050b-20&asc_campaign=&asc_source=&asc_refurl=https%3A%2F%2Fwww.wired.com%2Fstory%2Fhow-to-build-a-pc&ascsubtag=5ac3ce1aecb0130b0e7261e7) $219
 
