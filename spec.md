@@ -25,4 +25,4 @@ Still researching on the software to run on our own computer. GETH is the most u
 We can deploy the node using [DAppNode](https://docs.dappnode.io/get-started/intro).
 
 ## ToDo
-Decide on assembly procedure and date.
+Decide on assembly procedure, software, and build date.
