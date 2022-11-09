@@ -22,6 +22,8 @@ Bandwidth: 25+ MBit/s (Cylab probably)
 
 Still researching on the software to run on our own computer. GETH is the most used option, but we may want to choose another client for network diversity.
 
+Softwares update: GETH (most popular, large user base) OR Erigon (a Go Ethereum fork that focuses on speed and disk space savings).
+
 We can deploy the node using [DAppNode](https://docs.dappnode.io/get-started/intro).
 
 ## ToDo
