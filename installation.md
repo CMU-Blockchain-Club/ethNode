@@ -17,4 +17,4 @@ sudo wget -O - https://installer.dappnode.io | sudo bash
 shutdown -r now
 ```
 
-After running the steps above, connect to the dappNode interface using local wifi ofr a VPN.
+After running the steps above, connect to the dappNode interface using local wifi or a VPN.
